@@ -14,5 +14,4 @@ Each one runs as an independent program and communicates with other modules via 
 System is far from perfect, dev was abandoned in early stage but it was successfully notifying about incoming Bitcoin Tx's via SMS.
 ETA of SMS after Bitcoin Tx was about 10 to 30 seconds (Venezuelan SMS and phone networks are pretty slow and prone to failure)
 
-
-PD: I'm a noob on RoR
+Coded in RoR
